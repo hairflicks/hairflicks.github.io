@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #FFC501
+}
+h1 {
+    padding: 0px;
+    border: solid darkgreen 15px;
+    border-radius: 15px;
+    text-align: center;
+    font-weight: bold;
+    background-color: green;
+    width: 250px;
+    margin:auto;
+}
+h3 {
+    border: dotted #bc0e4c 5px;
+    margin : 10px;
+    width: 300px;
+    padding :10px;
+}
+.lists {
+    margin:15px;
+    padding:20px;
+}
+
+#likes {
+    color: green
+}
+#dislikes {
+    color: red
+}
+button {
+    width: 170px;
+    height: 50px;
+    color: white;
+    background-color: #bc0e4c;
+    font-size:large;
+    font-weight: bold;
+    border-right: solid #bc0e4c;
+    cursor:pointer;
+    float: left;
+    border: 1px solid #FFC501;
+
+}
+main{
+    background-color:#354f60
+}
+body {
+    background-color: #354f60
+}
+
+button:hover {
+    background-color: #bc0e4bb6;
+    border-color: #bc0e4bb6;
+}
